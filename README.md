@@ -31,17 +31,18 @@ Instala las dependencias necesarias
 
 ``` bash
 npm install
+npm install -g @angular/cli
 ```
 
 Inicia el servidor de desarrollo de Ionic
 
 ``` bash
-npm start
+ionic serve
 ```
 
 Deberías automáticamente ser redirigido al sitio web, de no ser así ve al sitio que se indique en la consola, por defecto es:
 
-[http://localhost:4200/]()
+[http://localhost:8100/]()
 
 ## Capturas de pantalla
 
